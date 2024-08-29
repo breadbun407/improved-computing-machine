@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/improved-computing-machine">
       <div className="container">
         <nav>
           <ul>
